@@ -3,8 +3,4 @@
 
 ## Python Code
 
-```
-print ("Hello world")
-
-```
-
+- [Hello World](https://github.com/13-garima/Python/blob/fb124b2f166b89a73caae3ee08bad078708265e4/HelloWorld.py)
