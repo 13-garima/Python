@@ -1,11 +1,8 @@
 # Python
-Python Code
+## Python Code
 
 ```
 print ("Hello world")
 
 ```
 
-# H
-## a
-### n
